@@ -22,5 +22,29 @@ var questions = [
         // B : 'Rush',
         // C : 'Ford V Ferrari'
         correct: "Rush"
-    }
+    },
+    {
+        question : 'In The Matrix, which pill does Neo take?',
+        array: ['red pill','blue pill','black pill'],
+        // A : 'red pill',
+        // B : 'blue pill',
+        // C : 'black pill'
+        correct: "red pill"
+    },
+    {
+        question : 'In what year is the Peter Jackosn remake of King Kong take place in?',
+        array: ['1929','1933','1934'],
+        // A : '1929',
+        // B : '1933',
+        // C : '1934',
+        correct: "1933"
+    },
+    {
+        question : 'What was Aardman studios first Hollywood feature film?',
+        array: ['Chicken Run','Flushed Away','Wallace and Gromit the Curse of the Were Rabbit'],
+        // A : 'Chicken Run',
+        // B : 'Flushed Away',
+        // C : 'Wallace and Gromit the Cure of the Were Rabbit',
+        correct: "Chicken Run"
+    },
 ]
